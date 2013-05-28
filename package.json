@@ -1,0 +1,19 @@
+{
+  "name": "cwise-experiment",
+  "version": "0.0.0",
+  "description": "Cache oblivious array operations for JS",
+  "main": "cache-aware.js",
+  "dependencies": {
+    "cwise": "~0.1.2",
+    "ndarray": "~0.2.4",
+    "ndarray-ops": "~0.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
